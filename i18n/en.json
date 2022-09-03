@@ -1,0 +1,37 @@
+{
+    "translation":
+     {
+      "hello":"Hello",
+      "Are your sure?":"Are your sure?",
+      "Are you sure you want to logout?":"Are you sure you want to logout?",
+      "Yes":"Yes",
+      "No":"No",
+      "this section only for admins !":"this section only for admins !",
+      "Ignore List":"Ignore List",
+      "Invitation to Rooms":"Invitation to Rooms",
+      "Incoming Files":"Incoming Files",
+      "Outgoing Messages":"Outgoing Messages",
+      "Incoming Messages":"Incoming Messages",
+      "Contacts book":"Contacts book",
+      "This Week Best Photo":"This Week Best Photo",
+      "Last week's Best Photo":"Last week's Best Photo",
+      "Invite Friend" : "Invite Friend",
+      "About Cummunity " : "About Cummunity ",
+      "Important Messages" : "Important Messages",
+      "Private Message to : " :"Private Message to : ",
+      "Private Message History":"Private Message History",
+      "View Photo":"View Photo",
+      "Photo Album":"Photo Album",
+      "information":"information",
+      "About Room":"About Room",
+      "Link to Chat":"Link to Chat",
+      "Message to Chat":"Message to Chat",
+      "Send":"Send",
+      "Distance":"Distance",
+      "Make Gift":"Make Gift" ,
+      "Add to Contact book":"Add to Contact book",
+      "ignore":"ignore",
+      "Rating":"Rating"
+ 
+    }
+  }

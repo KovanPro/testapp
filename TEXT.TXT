@@ -1,0 +1,7 @@
+"react-native-text-ticker": "^1.14.0"
+
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kovanpro.friendschat",
+      "buildNumber": "1.0.0"
+    },
